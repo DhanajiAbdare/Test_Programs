@@ -4,10 +4,24 @@ GitHub Commands :
 code .				-Use VS terminal instead of cmd
 git init			-Initialize git repo
 
+
 git branch branch_name		-Create a new branch
 git switch branch_name		-Switch from one branch to another
-
+			OR
 git switch -c branch-name	-Create & switch to the new branch
 git checkout -b branch_name	-Create & switch to the new branch
 
+
+git branch			-Verify the Branch
+git push -u origin branch-name	-Push the Branch to Remote (GitHub, GitLab, etc.)
+
+
 git status			-Ensure You Are in the Right Repository & also track the files
+
+
+git add file_name		-Add a specific file
+git add .			-Add all the files
+
+git commit -m "message"		-Commit message to push the changes
+
+git push			-Push the changes to the github
