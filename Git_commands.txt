@@ -17,6 +17,7 @@ git push -u origin branch-name	-Push the Branch to Remote (GitHub, GitLab, etc.)
 
 
 git status			-Ensure You Are in the Right Repository & also track the files
+git diff			-Check the difference
 
 
 git add file_name		-Add a specific file
