@@ -1,0 +1,10 @@
+GitHub Commands :
+===============
+
+git init			-Initialize
+
+git branch branch_name		-create a new branch
+git switch branch_name		-switch from one branch to other
+git checkout -b branch_name	-create & switch to other branch
+
+git status			-Untrack to track files
