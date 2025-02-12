@@ -24,3 +24,4 @@ git add .			-Add all the files
 
 git commit -m "message"		-Commit message to push the changes
 
+git push 					-Push to the GitHub
