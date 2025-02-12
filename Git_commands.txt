@@ -5,7 +5,9 @@ code .				-Use VS terminal instead of cmd
 git init			-Initialize git repo
 
 git branch branch_name		-Create a new branch
-git switch branch_name		-Switch from one branch to other
-git checkout -b branch_name	-Create & switch to other branch
+git switch branch_name		-Switch from one branch to another
+
+git switch -c branch-name	-Create & switch to the new branch
+git checkout -b branch_name	-Create & switch to the new branch
 
 git status			-Ensure You Are in the Right Repository & also track the files
