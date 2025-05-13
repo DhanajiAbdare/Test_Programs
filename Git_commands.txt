@@ -11,6 +11,8 @@ git switch branch_name		-Switch from one branch to another
 git switch -c branch-name	-Create & switch to the new branch
 git checkout -b branch_name	-Create & switch to the new branch
 
+git merge dev/stg/master	-Merge files
+
 
 git branch			-Verify the Branch
 git push -u origin branch-name	-Push the Branch to Remote (GitHub, GitLab, etc.)
